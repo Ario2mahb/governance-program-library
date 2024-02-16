@@ -2,7 +2,7 @@ anchor_version = "0.26.0"
 solana_version = "1.14.16"
 
 [features]
-seeds = false
+seeds =true
 
 [programs.localnet]
 nft_voter = "GnftV5kLjd67tvHpNGyodwWveEKivz3ZWvvE3Z4xi2iw"
